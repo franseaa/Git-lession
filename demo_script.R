@@ -1,8 +1,9 @@
 #Headline
 
-x <- rnorm(200, 0, 1)
-y <- rnorm(200)
+x <- rnorm(500, 0, 1)
+y <- rnorm(500)
 
 #Important feature 
 
 #Normal development
+
